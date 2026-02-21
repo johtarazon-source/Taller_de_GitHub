@@ -3,7 +3,8 @@ Equipo de Desarrollo
 Integrantes:
 1. Santiago - Desarrollo Full Stack
 2. Johan
-3. Pendiente
+3. Miguel
+
 
 Proyecto:
 Aplicación de perfiles del equipo
