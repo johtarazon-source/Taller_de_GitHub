@@ -1,12 +1,9 @@
 Equipo de Desarrollo
 
 Integrantes:
-<<<<<<< HEAD
-1. Santiago - Desarrollo Full Stack
-=======
-2. Johan
->>>>>>> main
 
+1. Santiago 
+2. Johan
 3. Miguel
 
 Proyecto:
